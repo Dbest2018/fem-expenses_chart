@@ -123,6 +123,10 @@ body {
   align-self: flex-end;
   text-align: end;
 }
+.right__price {
+  font-weight: 700;
+  color: var(--dark-brown);
+}
 
 .attribution {
   font-size: 11px;
